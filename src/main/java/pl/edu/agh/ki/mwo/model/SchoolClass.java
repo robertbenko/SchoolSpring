@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 @SuppressWarnings("serial")
 @Entity
-@Table(name="schoolClasses")
+@Table(name="MyschoolClasses")
 public class SchoolClass implements java.io.Serializable {
 	
 	@Id
